@@ -68,7 +68,7 @@ safe: False
 lsi: False
 username: lemondeetcetera
 repo: lemondeetcetera.github.io
-branch: master
+branch: source
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
 production_url:  https://jekyller.github.io/jasper2/
