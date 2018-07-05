@@ -9,7 +9,7 @@ url: https://www.lemondeetcetera.com
 baseurl: /
 
 # Website info
-title: Le monde etcetera...
+title: Le monde etcetera
 description: Notre blog pour vous emmener autour du monde !
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
@@ -23,15 +23,15 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: lemondeetcetera # replace by your username
+facebook: lemondeetcetera # replace by your username
 
 # Disqus
 disqus: True
 disqus_shortname: lemondeetcetera # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-121916523-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
