@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: Ghost
@@ -71,8 +71,8 @@ repo: lemondeetcetera.github.io
 branch: source
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+production_url:  https://lemondeetcetera.github.io/
+source_url:  https://github.com/lemondeetcetera/lemondeetcetera.github.io/
 
 exclude:
   - assets/css
