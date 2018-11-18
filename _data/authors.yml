@@ -9,6 +9,17 @@ rached:
   facebook: False
   twitter: rhedia_
   cover: False
+marine:
+  username: marine
+  name: Marine Bardalou
+  location: Paris, France
+  url_full: False
+  url: False
+  bio: 
+  picture: assets/images/marine.jpg
+  facebook: False
+  twitter: False
+  cover: False
 ghost:
   username: ghost
   name: Ghost

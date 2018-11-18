@@ -48,14 +48,15 @@
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
                 <section class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</section>
-                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
-                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
+                <section class="poweredby">Publié avec <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> avec
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
                 <nav class="site-footer-nav">
-                    <a href="{{ site.baseurl }}">Latest Posts</a>
-                    {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
-                    {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
-                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+                    <a href="{{ site.baseurl }}">Derniers Posts</a>
+                    <!--{% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
+                    {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}-->
+                    {% if site.instagram %}<a href="https://www.instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">Instagram</a>{% endif %}
+                    <!--<a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>-->
                 </nav>
             </div>
         </footer>
@@ -70,9 +71,9 @@
                 {% if site.logo %}
                     <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
                 {% endif %}
-                <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
-                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
-                {% include subscribe-form.html placeholder="youremail@example.com" %}
+                <h1 class="subscribe-overlay-title">Souscrire à {{ site.title }}</h1>
+                <p class="subscribe-overlay-description">Soyez informés des dernières publications ! Recevez tous les derniers &amp; meilleurs articles directement dans votre boîte mail</p>
+                {% include subscribe-form.html placeholder="monmail@example.com" %}
             </div>
         </div>
     {% endif %}
