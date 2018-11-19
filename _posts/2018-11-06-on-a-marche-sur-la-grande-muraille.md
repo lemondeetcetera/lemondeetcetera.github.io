@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/greatwall.jpg
+cover: assets/images/great-wall.jpg
 navigation: True
 title: On a marché sur la Grande Muraille
 date: 2018-11-06 10:18:00
@@ -20,4 +20,7 @@ Deux métros, un bus, un taxi et un shuttle nous ont conduits au pied de la Gran
 La Grande Muraille en photo c’était déjà beau, mais se promener dessus c’est encore mieux. Il y avait peu de monde ce jour là. Par endroit, on arrive à voir au loin la Grande Muraille qui serpente le long des chaînes de montagne. Les sections plates alternent avec des escaliers parfois à la verticale. On aimerait 
 toujours voir plus loin mais nos jambes nous rappellent qu’il faudra faire le chemin inverse...  
 
-PS: Ce joli cliché a été fait par Cécé, venue nous rendre visite durant notre périple en Chine ;-)
+![](assets/images/marine-escalier-descente-great-wall.jpg)
+![](assets/images/marine-rached-great-wall.jpg)
+
+PS: Ce dernier joli cliché a été fait par Cécé, venue nous rendre visite durant notre périple en Chine ;-)
