@@ -4,7 +4,7 @@ current: post
 navigation: True
 title: L'armée en terre cuite de Xi'an
 date: 2018-11-12 10:18:00
-tags: Chine, Xi'an
+tags: Chine Xi'an
 class: post-template
 subclass: 'post tag-speeches'
 author: marine
