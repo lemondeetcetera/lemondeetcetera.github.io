@@ -1,7 +1,6 @@
 ---
 layout: post
 current: post
-cover: assets/images/bund.jpg
 navigation: True
 title: L'armée en terre cuite de Xi'an
 date: 2018-11-12 10:18:00
