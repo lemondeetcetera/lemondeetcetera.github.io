@@ -877,8 +877,16 @@ body {
     text-transform: uppercase
 }
 
+.post-full-meta-tag {
+    color:brown;
+    text-decoration: underline; 
+}
+
 .post-full-meta-date {
-    color: #3eb0ef
+    color: gray;
+    font-style: italic;     
+    font-size: 1.4rem;
+    text-transform: lowercase;
 }
 
 .post-full-title {
@@ -919,9 +927,10 @@ body {
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: Georgia, serif;
-    font-size: 2.2rem;
+    font-size: 2.0rem;
     line-height: 1.6em;
-    background: #fff
+    background: #fff;
+    text-align:justify;    
 }
 
 @media (max-width:1170px) {
