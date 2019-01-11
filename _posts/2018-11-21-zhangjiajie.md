@@ -39,7 +39,6 @@ Les vues sont spectaculaires et vertigineuses. Sur les sentiers à flanc des pic
 Quelques panneaux sont là pour nous expliquer les phénomènes géologiques qui se sont déroulés pendant 380 millions d'années pour façonner ce paysage atypique.  
 Mais il est difficile de se résoudre à ces explications rationnelles. Nous restons émerveillés par ce monde qui nous paraît imaginaire, admiratifs de la beauté que la nature est capable d'engendrer.
 ![](assets/images/zhangjiajie-8.jpg)
-Pour nous c'est sûr, le parc national de Wulingyuan est un incontournable de la Chine.
 
 ### Accès au parc
 
@@ -92,30 +91,36 @@ Nous nous sommes rendus à Zhangjiajie depuis Yangshuo (situé plus au sud, dans
 
 Je vous livre donc tous les détails de **notre trajet depuis Yangshuo** pour vous dire que oui c'est faisable et qu'il faut y aller !
 
-1. **Taxi** depuis notre auberge à Yangshuo jusqu'à **Yangshuo bus station**, 30 yuans.
+1\. **Taxi** depuis notre auberge à Yangshuo jusqu'à **Yangshuo bus station**, 30 yuans.
 
-2. **Bus** de Yangshuo à **Guilin**, 1 heure, 30 yuans/pers.
+2\. **Bus** de Yangshuo à **Guilin**, 1 heure, 30 yuans/pers.
 
-3. A Guilin, il faut prendre un bus pour se rendre à **Guilin Railway station**, **bus K99**, 2 yuans/pers. 
+3\. A Guilin, il faut prendre un bus pour se rendre à **Guilin Railway station**, **bus K99**, 2 yuans/pers. 
 
-Attention, bien suivre le trajet avec Maps.me pour savoir où descendre. On a eu du mal à trouver l'arrêt. On est descendu un peu trop tôt et avons fini à pied.  
-Dans un pays autre que la Chine, je vous aurais dit de vous adresser au chauffeur ou à un passager. Mais ici impossible de se comprendre, on en a fait l'expérience: Rached se servant de Google traduction, moi faisant des mimes et le passager nous répondant en chinois. Un vrai dialogue de sourd !
+>Attention, bien suivre le trajet avec Maps.me pour savoir où descendre. On a eu du mal à trouver l'arrêt. On est descendu un peu trop tôt et avons fini à pied.  
+>Dans un pays autre que la Chine, je vous aurais dit de vous adresser au chauffeur ou à un passager. Mais ici impossible de se comprendre, on en a fait l'expérience: Rached se servant de Google traduction, moi faisant des mimes et le passager nous répondant en chinois. Un vrai dialogue de sourd !
 
-4. Une fois à Guilin Railway station, prendre le **train pour Liuzhou**, 1 heure, 9€/pers (réservé à l'avance sur Trip.com).
+4\. Une fois à Guilin Railway station, prendre le **train pour Liuzhou**, 1 heure, 9€/pers (réservé à l'avance sur Trip.com).
 
-5. A la gare de Liuzhou, prendre un **taxi pour la gare de Liujiang**, 53 yuans.
+5\. A la gare de Liuzhou, prendre un **taxi pour la gare de Liujiang**, 53 yuans.
 
-6. A la gare de Liujiang, prendre le **train de nuit pour Zhangjiajie** (réservé à l'avance sur Trip.com). Le prix varie en fonction du **type de couchette** : *Soft sleeper*, 36€/pers ou *Hard sleeper*, 24€/pers. 
- 
-A l'aller nous avons réservé en ***Soft sleeper***, cabine de 4 couchettes (2 lits superposés) avec une porte qui ferme.  
+6\. A la gare de Liujiang, prendre le **train de nuit pour Zhangjiajie** (réservé à l'avance sur Trip.com).
 
-Au retour, plus aventuriers, nous avons essayé le ***Hard sleeper***, cabine de 6 couchettes, de la même taille que les cabines de 4, avec un lit supplémentaire au dessus. C'est un peu plus serré mais encore supportable même pour une claustro comme moi.  
-Le matelas est un peu plus fin mais il y a bien un matelas !  
-La cabine n'a pas de porte donc donne directement sur le couloir mais les lumières dans le wagon sont éteintes à partir d'une certaine heure.
+>Le prix varie en fonction du **type de couchette** : *Soft sleeper*, 36€/pers ou *Hard sleeper*, 24€/pers.
 
-Le ***Hard sleeper*** est donc une bonne option surtout si vous devez faire attention à votre budget de voyage.
+>A l'aller nous avons réservé en ***Soft sleeper***, cabine de 4 couchettes (2 lits superposés) avec une porte qui ferme.
 
-De l'eau chaude est disponible dans le train donc vous pourrez déguster votre savoureux bol de noodles à bord. Un conseil, achetez le à Guilin car la gare de Liujiang est minuscule. 
+>Au retour, plus aventuriers, nous avons essayé le ***Hard sleeper***, cabine de 6 couchettes, de la même taille que les cabines de 4, avec un lit supplémentaire au dessus. C'est un peu plus serré mais encore supportable même pour une claustro comme moi.
+>Le matelas est un peu plus fin mais il y a bien un matelas !  
+>La cabine n'a pas de porte donc donne directement sur le couloir mais les lumières dans le wagon sont éteintes à partir d'une certaine heure.
 
-7. J+1, on y est presque ! Il ne nous reste plus qu'à rejoindre notre hébergement situé à Wulingyuan.
+>Le ***Hard sleeper*** est donc une bonne option surtout si vous devez faire attention à votre budget de voyage.
+
+>De l'eau chaude est disponible dans le train donc vous pourrez déguster votre savoureux bol de noodles à bord. Un conseil, achetez le à Guilin car la gare de Liujiang est minuscule. 
+
+7\. J+1, on y est presque ! Il ne nous reste plus qu'à rejoindre notre hébergement situé à Wulingyuan.
 Se rendre dans le bâtiment sur la gauche en sortant de la gare de Zhangjiajie. Il y a plusieurs bus qui attendent. Prendre le **bus pour Wulingyuan**, 14 yuans/pers. 
+
+Vous l'aurez sans doute compris... Pour nous, le parc national de Wulingyuan a été une belle découverte. Et nous ne pouvons que vous conseillez d'y aller.
+
+Rendez-vous prochainement pour la suite de nos aventures à Hong Kong.
