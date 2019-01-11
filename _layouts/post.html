@@ -25,20 +25,23 @@ into the {body} of the default.hbs template -->
         <article class="post-full {{ page.subclass }} {% unless page.cover %}no-image{% endunless %}">
 
             <header class="post-full-header">
-                <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date | date:'%e %B %Y' }}</time>
-                    {% if page.tags.size > 0 %}
-                        <span class="date-divider">/</span>
+                <section class="post-full-meta">                    
+                    {% if page.tags.size > 0 %}                        
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
+                               <a class="post-full-meta-tag" href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>
                             {% else %}
-                               <a href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
+                               <a class="post-full-meta-tag" href='{{ site.baseurl }}tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | upcase }}</a>,
                             {% endif %}
                         {% endfor %}
                     {% endif %}
                 </section>
                 <h1 class="post-full-title">{{ page.title }}</h1>
+                <section class="post-full-meta">                                    
+                {% if page.date-en-francais.size > 0 %}
+                <time class="post-full-meta-date" datetime="{{ page.date | date:'%e %B %Y' }}">{{ page.date-en-francais}}</time>
+                {% endif %}
+                </section>
             </header>
 
             {% if page.cover %}
