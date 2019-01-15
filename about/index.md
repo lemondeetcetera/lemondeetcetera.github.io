@@ -19,7 +19,7 @@ Franchement, à côté des préparatifs d'un mariage, préparer notre tour du mo
 
 #### Marine
 J'ai 32 ans et je n'en suis pas à ma première évasion ! J'étais déjà partie un an en Australie il y a 9 ans avec un Working Holiday Visa (ou PVT). Je savais que tôt ou tard le moment viendrait où je récidiverai.  
-Pour moi, partir en voyage pour une longue durée c'est goûter à ce sentiment de liberté, prendre une bonne dose de vie et réaliser ce qui compte le plus.
+Pour moi, partir en voyage pour une longue durée c'est goûter à ce sentiment de liberté, prendre une bonne dose de vie et réaliser ce qui compte le plus.  
 Une des choses que j'apprécie dans les voyages au long cours, c'est l'occasion de se délester de tous nos biens matériels, de réduire ses besoins à l'essentiel, de vivre simplement en somme. Bon rassurez-vous, tout n'est pas parti à la poubelle. La plupart de nos affaires sont au grenier chez maman et attendent sagement notre retour.  
 Oui parce que si on ne sait pas de quoi demain sera fait, ce tour du monde a tout de même une durée de vie limitée. Le but n'est pas de fuir notre ancienne vie pour tout reconstruire. Non, il s'agit plutôt d'un temps privilégié que l'on s'accorde dans nos vies, le temps de sortir la tête de la routine pour plonger dans ce monde qui nous entoure.
 
