@@ -54,7 +54,7 @@ Les marchés sont légion en Asie et Hong Kong n'échappe pas à cette règle: m
 Faire l'ascension du Victoria Peak, beaucoup vous le conseilleront...et à raison. **Une des plus belles vues sur l'île de Hong Kong**. En tram ou en bus, en journée ou à la nuit tombée. A éviter le week-end si vous ne voulez pas faire des heures de queue. Préférez le bus au tram, plus économique et le trajet par les routes montantes et sinueuses se révèle être une vraie attraction.
 
 ### Carnet d'adresses
-![](assets/images/hong-kong-17.jpg)
+
 #### Shopping multimédia
 
 - **Wan Chai Computer Center** :
