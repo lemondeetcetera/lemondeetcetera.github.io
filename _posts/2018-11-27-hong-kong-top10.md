@@ -40,6 +40,7 @@ Envie d'une petite pause pour se couper de l'agitation urbaine ? Pourquoi ne pas
 - **Kowloon park**, le long de Nathan Road, pour se reposer à l'ombre des Chinese Banyan;
 - **Hong Kong park** et son immense volière;
 - **Cheung Kong park**, un minuscule oasis au coeur de Central.
+
 ![](assets/images/hong-kong-6.jpg)
 
 #### 7. Se ressourcer sur l'île de Lantau
