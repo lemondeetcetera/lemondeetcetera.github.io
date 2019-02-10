@@ -4,8 +4,8 @@ current: post
 cover: assets/images/hong-kong-12.jpg
 navigation: True
 title: Hong Kong &#58; Top 10 des choses à faire et carnet d'adresses
-date: 2018-11-27 10:18:00
-date-en-francais: 28 novembre 2018
+date: 2018-11-27 11:18:00
+date-en-francais: 27 novembre 2018
 tags: Chine
 class: post-template
 subclass: 'post tag-speeches'
