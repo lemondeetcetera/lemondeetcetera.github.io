@@ -41,6 +41,7 @@ Envie d'une petite pause pour se couper de l'agitation urbaine ? Pourquoi ne pas
 - **Hong Kong park** et son immense volière;
 - **Cheung Kong park**, un minuscule oasis au coeur de Central.
 ![](assets/images/hong-kong-6.jpg)
+
 #### 7. Se ressourcer sur l'île de Lantau
 Après des journées passées à arpenter la ville, quoi de mieux que de quitter la foule pour aller se détendre à la plage. A seulement 30 minutes en ferry de Central, **Lower Cheung Sha Beach** est une petite plage, peu fréquentée, sur l'île de Lantau. Au programme : déjeuner dans un petit restaurant face à la mer, baignade et coucher de soleil en compagnie des vaches qui arrivent en fin de journée !
 ![](assets/images/hong-kong-10.jpg)
