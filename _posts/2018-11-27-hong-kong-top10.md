@@ -82,4 +82,4 @@ ICC Tower, 1 Austin Road West, Tsim Sha Tsui, Hong Kong, 118ème étage
 80 Shek Pai Wan Road, Tin Wan, Hong Kong
 
 On ne devait rester que 5 jours à Hong Kong et nous y avons finalement passé 10 jours...  
-Ne manquez pas d'aller voir notre précédent post sur Hong Kong si vous voulez savoir ce qu'on en a pensé.
+Ne manquez pas d'aller voir notre précédent post sur [Hong Kong](https://www.lemondeetcetera.com/hong-kong) si vous voulez savoir ce qu'on en a pensé.
