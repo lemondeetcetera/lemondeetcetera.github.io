@@ -26,10 +26,11 @@ Et ils prennent volontiers la pose devant l'objectif avec un grand sourire. Y a 
 
 #### Le sport national
 Question à 2 pesos : quel est le sport national aux Philippines ?  
-Tic tac tic tac...le basket !  
+Tic tac tic tac...le basket !
+![](assets/images/philippines-paysage-10.jpg)
 Mais oui, dans n'importe quel village, même perdu au beau milieu des rizières, si il y a âme qui vive, il y a un terrain de basket. C'est la base !  
 Du coup, il est facile d'assister à un match de basket où que l'on soit. Une façon toute simple de partager un bon moment avec les locaux.
-![](assets/images/philippines-paysage-10.jpg)
+
 #### La protection de l'environnement   
 Typhons, tremblements de terre, inondations, ce petit coin de paradis est malheureusement l'un des endroits de la planète le plus touché par les catastrophes naturelles. C'est sûrement une des raisons pour lesquelles le pays se soucie un peu plus que ses voisins de la protection de l'environnement.  
 En tout cas, on a trouvé plusieurs endroits à travers le pays où il y avait des initiatives pour la planète.  Youpi ! Un exemple de plus qui démontre que le problème de l'environnement ne nécessite pas forcément de l'argent mais plutôt de bonnes habitudes à prendre.
@@ -45,7 +46,7 @@ Je vous donne quelques exemples des bonnes actions que nous avons croisées en r
 4\. et pour finir, l'île de Boracay, destination favorite des Philippines pour ses plages de sable blanc, a été fermée aux touristes pendant 6 mois pour faire le grand ménage. L'île croulait sous les déchets. Les hôtels construits illégalement sur des zones protégées ont été détruits.
 
 #### Côté transport
-Les transports, à l'exception des minivans, ne sont pas de la première jeunesse et peu confortables. De même que les routes mineures ne sont pas goudronnées. Donc on est parfois un peu bringuebalé. Dans les bus de nuit, par exemple, pas de couchette, on voyage assis. Mais ça fait partie de l'aventure.  
+Les transports, à l'exception des minivans, ne sont pas de la première jeunesse et peu confortables. Dans les bus de nuit, par exemple, pas de couchette, on voyage assis. De même que les routes mineures ne sont pas goudronnées. Donc on est parfois un peu bringuebalé. Mais ça fait partie de l'aventure.  
 La vitesse moyenne est de 70 km/h. Donc vous passerez sans doute un peu de temps dans les transports. Mais vous avez le temps, vous êtes en vacances haha !
 ![](assets/images/philippines-portrait-24.jpg)
 >On est déjà descendu à 30 km/h...3 heures pour faire 100 km. C'était le jour de mon anniversaire. Je crois que je n'oublierai pas cette journée où nous avions pris deux Jeepneys, un bus, un *tricycle* avant de finir dans ce bus-escargot, bondé...une merveilleuse journée.
@@ -73,8 +74,9 @@ Les taxis sont bon marché. La file d'attente était longue à notre arrivée à
 Du riz, du riz et encore du riz. Oui trois fois par jour, à tous les repas. Le moins qu'on puisse dire c'est que ça cale.  
 Une petite variante tout de même pour le petit-déjeuner : le pancake à la banane, plus ou moins bon selon les endroits.  
 En dehors de ça, rien qui mette vraiment l'eau à la bouche. Le plus souvent des grillades de viande ou de poisson...accompagné de riz...Oups désolé pour la répétition !  
-J'oublie quand même les fruits et les jus de fruits frais (mangue, banane, ananas), toujours très rafraîchissants.
 ![](assets/images/philippines-paysage-12.jpg)
+J'oublie quand même les fruits et les jus de fruits frais (mangue, banane, ananas), toujours très rafraîchissants.
+
 En ce qui concerne le service à table, prenez votre mal en patience car c'est souvent très très lent. Ils mettent tout leur coeur à vous préparer un bon repas... Je n'ai pas trouvé d'autre explication !
 
 #### Des îles paradisiaques
@@ -84,9 +86,10 @@ Les Philippines sont un archipel de plus de 7000 îles dont environ 2000 sont ha
 Des plages de sable blanc, des lagons aux eaux chaudes et turquoises, des couchers de soleil parmi les plus beaux au monde...tous les ingrédients d'un petit éden sont là.
 ![](assets/images/philippines-portrait-17.jpg)
 ![](assets/images/philippines-portrait-18.jpg)
-L'une des activités phares du pays est de faire la tournée des îlots inhabités et des plages désertes, le *island hopping*.  
-Vous embarquez pour la journée à bord d'une bangka, bateau traditionnel philippin, qui ressemble à un trimaran avec des flotteurs en bambou. Selon le tour, plusieurs arrêts sont prévus pour observer coraux, poissons, tortues et étoiles de mer en masque et tuba. Quand vient l'heure du repas, le bateau accoste sur un petit banc de sable pour vous servir un délicieux poisson grillé, cuit sur le bateau. Et la journée se poursuit sur un rythme détendu. Le bateau fait généralement entre 5 et 8 arrêts. De quoi en prendre plein les yeux. Quand vous revenez au port, le soleil commence à décliner et illumine les paysages d'une lumière dorée. Non, ce n'était pas un rêve !
+L'une des activités phares du pays est de faire la tournée des îlots inhabités et des plages désertes, le ***island hopping***.
 ![](assets/images/philippines-portrait-19.jpg)
+Vous embarquez pour la journée à bord d'une **bangka**, bateau traditionnel philippin, qui ressemble à un trimaran avec des flotteurs en bambou. Selon le tour, plusieurs arrêts sont prévus pour observer **coraux, poissons, tortues et étoiles de mer** en masque et tuba. Quand vient l'heure du repas, le bateau accoste sur un petit banc de sable pour vous servir un délicieux poisson grillé, cuit sur le bateau. Et la journée se poursuit sur un rythme détendu. Le bateau fait généralement entre 5 et 8 arrêts. De quoi en prendre plein les yeux. Quand vous revenez au port, le soleil commence à décliner et illumine les paysages d'une lumière dorée. Non, ce n'était pas un rêve !
+![](assets/images/philippines-paysage-3.jpg)
 Pour un aperçu en son et en image, regardez notre première [Travel Video](https://youtu.be/rcTtjaDCbDw).
 
 #### Les rizières en terrasse de Batad
@@ -124,7 +127,7 @@ Prendre le bateau plutôt que l'avion pour passer d'une île à une autre peut d
 
 Pour les hébergements, il n'y a pas de règle absolue mais on a souvent eu des prix plus intéressants sur place. Il est même possible de négocier. Vous ne ferez donc pas nécessairement des économies en réservant votre hébergement à l'avance.
 
-Nous avions estimé un budget quotidien de à 30 €/pers. Notre *budget quotidien* était finalement de *37 €/pers* (tout compris - transport/hébergement/nourriture/activités, hors vols internationaux).
+Nous avions estimé un budget quotidien de 30 €/pers. Notre **budget quotidien** était finalement de **37 €/pers** tout compris (transport/hébergement/nourriture/activités - hors vols internationaux).
 
 #### 4. Acheter une carte sim
 L'internet est mauvais aux Philippines. La connection est lente et il y a souvent des coupures. Donc il arrive fréquemment que vous soyez plusieurs jours sans internet.
@@ -148,12 +151,12 @@ Néanmoins, nous avons remarqué que sur les tours comptant moins d'arrêts, nou
 Donc à vous de choisir si vous préférez tout voir ou en voir moins en plus petit comité et sur un rythme plus cool.
 
 #### 6. Ne pas donner d'argent aux enfants
-Aux Philippines, malheureusement comme dans beaucoup d'autres pays d'Asie, vous croiserez sans doute des enfants faisant la manche. Cela fait toujours de la peine de voir quelqu'un faire la manche et qui plus est quand c'est un enfant. Alors pour se sentir le coeur moins lourd, on a envie de leur donner un peu d'argent. Même si ça part d'une bonne intention, ce n'est pas leur rendre service.
+Aux Philippines, malheureusement comme dans beaucoup d'autres pays d'Asie, vous croiserez sans doute des enfants faisant la manche. Pour se sentir le coeur moins lourd, on a envie de leur donner un peu d'argent. Même si ça part d'une bonne intention, ce n'est pas leur rendre service.
 
 Si vous donnez de l'argent à un enfant dans la rue, il pensera plus utile de continuer à faire la manche auprès des touristes que d'aller à l'école. Et si il ne va pas à l'école, les  chances de gagner correctement sa vie plus tard diminueront encore.  
 Donc si vous voulez aider les enfants, il vaut mieux donner de l'argent aux associations locales qui soutiennent les écoles.
-![](assets/images/philippines-paysage-13.jpg)
-Voilà, j'espère qu'après avoir lu ces quelques conseils vous apprécierez d'autant plus votre séjour aux Philippines.
 
+Voilà, j'espère qu'après avoir lu ces quelques conseils vous apprécierez d'autant plus votre séjour aux Philippines.
+![](assets/images/philippines-paysage-8.jpg)
 Pour nous, ce voyage aura été une vraie pause au paradis. Pour avoir voyager au Vietnam et au Cambodge par la suite, les plages ne seront jamais aussi idylliques. Et ici contrairement au reste des îles du Pacifique, le rêve est accessible sans faire un trou énorme dans le porte monnaie.  
 Donc sans hésiter nous y retournerons dès que possible !
