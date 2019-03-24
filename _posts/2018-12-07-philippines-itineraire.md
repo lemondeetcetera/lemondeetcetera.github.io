@@ -120,7 +120,7 @@ Et si vous voulez en apprendre davantage sur **l'histoire de la région et la cu
 #### Hébergement à Banaue
 **Banaue Evergreen Hostel and Restaurant** : à deux pas de l'arrêt du bus de nuit, hôtel bien tenu par une propriétaire souriante et serviable, 800 PHP (13,30 €).
 
-### Jours 22 à 26 : Baler é#35;lagalère
+### Jours 22 à 26 : Baler #lagalère
 
 Après notre trek, nous voulions rejoindre un spot de surf. Ça tombe bien, il y en a deux très connus sur l'île de Luçon : San Juan La Union et Baler.  
 Les hébergements étant assez chers sur la période du nouvel an, nous avons éliminé le premier spot et choisi d'aller à Baler.
