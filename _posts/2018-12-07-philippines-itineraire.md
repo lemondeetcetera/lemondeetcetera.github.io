@@ -130,7 +130,7 @@ Il a quand même fallu prendre :
 - un Jeepney de Banaue à Lagawe ;  
 - un second Jeepney de Lagawe jusqu'à Bagabag Junction - 1h30 au total ;  
 - un bus de Bagabag Junction jusqu'à San José - 4 heures ;  
-- un tricycle de San José jusqu'à Rizal - 30 minutes ;  
+- un *tricycle* de San José jusqu'à Rizal - 30 minutes ;  
 - et enfin un bus de Rizal jusqu'à Baler - 3 heures (pour faire 100 km !).
 
 Arrivés sur place, la désillusion fut totale. Baler ressemble a une station balnéaire abandonnée depuis longtemps.  
