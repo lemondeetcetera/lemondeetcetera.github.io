@@ -84,10 +84,8 @@ Je vous avais promis le paradis ?
 Et bien nous y voilà !  
 Les Philippines sont un archipel de plus de 7000 îles dont environ 2000 sont habitées. Il faudrait plusieurs vies pour toutes les visiter. Mais elles sont toutes plus belles les unes que les autres donc peu importe celle que vous choisirez, vous ne serez pas déçus.  
 Des plages de sable blanc, des lagons aux eaux chaudes et turquoises, des couchers de soleil parmi les plus beaux au monde...tous les ingrédients d'un petit éden sont là.
-![](assets/images/philippines-portrait-17.jpg)
 ![](assets/images/philippines-portrait-18.jpg)
-L'une des activités phares du pays est de faire la tournée des îlots inhabités et des plages désertes, le ***island hopping***.
-![](assets/images/philippines-portrait-19.jpg)
+L'une des activités phares du pays est de faire la tournée des îlots inhabités et des plages désertes, le ***island hopping***.  
 Vous embarquez pour la journée à bord d'une **bangka**, bateau traditionnel philippin, qui ressemble à un trimaran avec des flotteurs en bambou. Selon le tour, plusieurs arrêts sont prévus pour observer **coraux, poissons, tortues et étoiles de mer** en masque et tuba. Quand vient l'heure du repas, le bateau accoste sur un petit banc de sable pour vous servir un délicieux poisson grillé, cuit sur le bateau. Et la journée se poursuit sur un rythme détendu. Le bateau fait généralement entre 5 et 8 arrêts. De quoi en prendre plein les yeux. Quand vous revenez au port, le soleil commence à décliner et illumine les paysages d'une lumière dorée. Non, ce n'était pas un rêve !
 ![](assets/images/philippines-paysage-3.jpg)
 Pour un aperçu en son et en image, regardez notre première [Travel Video](https://youtu.be/rcTtjaDCbDw).
