@@ -106,7 +106,7 @@ Il y a 3 aéroports internationaux aux Philippines : Manille, Cebu et Clark. Ceb
 
 Etudiez en détail les possibilités de transport pour vous rendre d'une île à une autre. Y a-t-il des liaisons directes ou faut-il transiter par une autre île ?
 
-A titre d'exemple, je vous livre tous les détails de notre itinéraire dans notre prochain post.
+A titre d'exemple, je vous livre tous les détails de notre itinéraire dans [ce post](https://www.lemondeetcetera.com/philippines-itineraire).
 
 Une fois votre itinéraire fait, vous pouvez choisir de réserver en avance ou attendre le dernier moment. La réservation de dernière minute ne pose aucun problème pour les hébergements, les transports terrestres et les ferries.  
 En revanche si vous avez prévu de prendre l'avion pour passer d'une île à une autre, les prix ne faisant qu'augmenter avec le temps, il est préférable d'acheter vos billets sans tarder.
